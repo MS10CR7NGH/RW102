@@ -26,7 +26,7 @@ public class Main {
         System.out.println("FullName: " + fullName);
         System.out.println("Age: " + age);
         System.out.println("Point: " + point);
-        System.out.println("Birthday: "+ birthday);
+        System.out.println("Birthday: "+ birthday);f
         System.out.println("Gender: "+ gender);
 
         Position position1 = new Position();
