@@ -19,62 +19,63 @@ public class Program {
 
         printInitialValues();
 
-        System.out.println("\n========== EXERCISE 2: SYSTEM OUT PRINTF ==========\n");
-        Exercise2.question1();
-        Exercise2.question2();
-        Exercise2.question3();
-        Exercise2.question4();
-        Exercise2.question5();
-        Exercise2.question6(acc1, acc2, acc3);
+//        System.out.println("\n========== EXERCISE 2: SYSTEM OUT PRINTF ==========\n");
+//        Exercise2.question1();
+//        Exercise2.question2();
+//        Exercise2.question3();
+//        Exercise2.question4();
+//        Exercise2.question5();
+//        Exercise2.question6(acc1, acc2, acc3);
+//
+//        System.out.println("\n========== EXERCISE 3: DATE FORMAT ==========\n");
+//        Exercise3.question1(exam1);
+//        Exercise3.question2(exam1);
+//        Exercise3.question3(exam1);
+//        Exercise3.question4(exam1);
+//        Exercise3.question5(exam1);
+//
+//        System.out.println("\n========== EXERCISE 4: RANDOM NUMBER ==========\n");
+//        Exercise4.question1();
+//        Exercise4.question2();
+//        Exercise4.question3();
+//        Exercise4.question4();
+//        Exercise4.question5();
+//        Exercise4.question6();
+//        Exercise4.question7();
+//
+//        Account[] accounts = { acc1, acc2, acc3 };
+//        Group[] groups = { group1, group2, group3 };
+//        System.out.println("\n========== EXERCISE 5: INPUT FROM CONSOLE ==========\n");
+//        // Exercise5.question1();
+//        // Exercise5.question2();
+//        // Exercise5.question3();
+//        // Exercise5.question4();
+//        // Exercise5.question7();
+//        Exercise5.question11(accounts, groups);
+//
+//        System.out.println("\n========== EXERCISE 6: METHOD ==========\n");
+//        Exercise6.question1();
+//        Exercise6.question2(accounts);
+//        Exercise6.question3();
+        Exercise5.questionDemo();
 
-        System.out.println("\n========== EXERCISE 3: DATE FORMAT ==========\n");
-        Exercise3.question1(exam1);
-        Exercise3.question2(exam1);
-        Exercise3.question3(exam1);
-        Exercise3.question4(exam1);
-        Exercise3.question5(exam1);
 
-        System.out.println("\n========== EXERCISE 4: RANDOM NUMBER ==========\n");
-        Exercise4.question1();
-        Exercise4.question2();
-        Exercise4.question3();
-        Exercise4.question4();
-        Exercise4.question5();
-        Exercise4.question6();
-        Exercise4.question7();
-
-        Account[] accounts = { acc1, acc2, acc3 };
-        Group[] groups = { group1, group2, group3 };
-        System.out.println("\n========== EXERCISE 5: INPUT FROM CONSOLE ==========\n");
-        // Exercise5.question1();
-        // Exercise5.question2();
-        // Exercise5.question3();
-        // Exercise5.question4();
-        // Exercise5.question7();
-        Exercise5.question11(accounts, groups);
-
-        System.out.println("\n========== EXERCISE 6: METHOD ==========\n");
-        Exercise6.question1();
-        Exercise6.question2(accounts);
-        Exercise6.question3();
-
-
-        System.out.println("\n========== KẾT QUẢ CÁC CÂU HỎI ==========\n");
-        question1();
-        question2();
-        question3();
-        question4();
-        question5();
-        question6();
-        question7();
-        question8();
-        question9();
-        question10();
-        question11();
-        question12();
-        question13();
-        question14();
-        question15();
+//        System.out.println("\n========== KẾT QUẢ CÁC CÂU HỎI ==========\n");
+//        question1();
+//        question2();
+//        question3();
+//        question4();
+//        question5();
+//        question6();
+//        question7();
+//        question8();
+//        question9();
+//        question10();
+//        question11();
+//        question12();
+//        question13();
+//        question14();
+//        question15();
     }
 
 
