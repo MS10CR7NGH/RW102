@@ -32,7 +32,7 @@ public class Program {
 //        Exercise4.question8(groups);
 //        Exercise4.question9(groups);
 //        Exercise4.question10();
-//        Exercise4.question11();
+        Exercise4.question11();
 //        Exercise4.question12();
 //        Exercise4.question13();
 //        Exercise4.question14();

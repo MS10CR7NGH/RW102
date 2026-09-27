@@ -57,7 +57,7 @@ public class Program {
 //        Exercise6.question1();
 //        Exercise6.question2(accounts);
 //        Exercise6.question3();
-        Exercise5.questionDemo();
+        //Exercise5.questionDemo();
 
 
 //        System.out.println("\n========== KẾT QUẢ CÁC CÂU HỎI ==========\n");
